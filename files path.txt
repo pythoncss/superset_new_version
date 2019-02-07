@@ -1,0 +1,89 @@
+home/baadmin/qei.........
+superset/assets/images/viz_thumbnails/line_xy.png
+superset/assets/src/explore/controls.jsx
+superset/assets/src/explore/controlPanels/Line_xy.js //added
+superset/assets/src/explore/controlPanels/index.js
+superset/assets/src/visualizations/nvd3/NVD3Vis.js
+superset/viz.py
+superset/assets/src/visualizations/nvd3/Line_xy
+superset/assets/src/visualizations/presets/CommonChartPreset.js
+superset/assets/src/visualizations/presets/LegacyChartPreset.js
+superset/assets/backendSync.json //(changed at start then removed the changes)
+superset/assets/spec/fixtures/mockDatasource.js
+/home/baadmin/qei/superset/assets/src/explore/components/controls/FixedOrMetricControl.jsx
+/home/baadmin/qei/superset/connectors/base/models.py
+/home/baadmin/qei/tests/core_tests.py
+
+
+
+                             ---------------------
+                              Extra Details
+                            --------------------
+added images
+------------------------------------------------------------------------------------
+
+1)))   superset/assets/javascripts/explore/stores/controls.jsx
+----------------------------------------------------------------------------------
+superset/assets/src/explore/controls.jsx
+@edited( 3 changes)
+477-483  ;
+750-775  
+789-840
+-----------------------------------------------------------------------------------
+
+2))) superset/assets/javascripts/explore/stores/visTypes.js
+-----------------------------------------------------------------------------------
+superset/assets/src/explore/controlPanels/Line.js
+superset/assets/src/explore/controlPanels/LineMulti.js
+@edited(1 changes)
+added one file
+------------------------------------------------------------------------------------
+
+
+
+3))    superset/assets/visualizations/main.js
+-----------------------------------------------------------------------------------
+/home/baadmin/qei/superset/assets/src/explore/controlPanels/index.js
+@edited 2 changes
+--98
+--
+------------------------------------------------------------------------------------
+
+
+
+4))  superset/assets/visualizations/nvd3_vis.js
+-------------------------------------------------------------------------------------
+superset/assets/src/visualizations/nvd3/NVD3Vis.js
+superset/static/assets/src/visualizations/nvd3/NVD3Vis.js
+@edited(2ges)
+--290-302;
+--631-634
+-------------------------------------------------------------------------------------
+
+
+
+5)) superset/viz.py
+--------------------------------------------------------------------------------------
+superset/viz.py
+ @edited(1 Changes)
+   -- just add a class
+   -- @added line(1061-1133)
+---------------------------------------------------------------------------------------
+addded
+****** added a folder*********** 
+path ==> master/superset/assets/src/visualizations/nvd3/Line_xy
+
+********added a line****
+path==> superset/assets/src/visualizations/presets/CommonChartPreset.js
+line(30)
+path==> superset/assets/src/visualizations/presets/LegacyChartPreset.js
+line(35,65)
+
+path==>superset/assets/backendSync.json
+line(2668-2688)
+
+
+
+
+
+
